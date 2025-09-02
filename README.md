@@ -2,7 +2,7 @@
 teste da facul e que se foda
 Teste PEI V
 Esta é a branch principal
-Aqui quem fez o commit foi o Diego
+Aqui quem fez o commit foi o Goiaba
 Teste do Git from os import system, name from stdiomask import getpass from time import sleep from adm import usuario_adm, senha_adm
 
 '''Função para exibir o menu''' def menu(): print("-="*35) print("""Bem-vindo à biblioteca virtual. Escolha uma opção:
